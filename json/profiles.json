@@ -1,0 +1,28 @@
+{
+  "firstName": "João",
+  "lastName": "Silva",
+  "age": 20,
+  "position": "qb",
+  "team": "Giants"
+}
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "age": 39,
+  "position": "wc",
+  "team": "UCF"
+}
+{
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "age": 45,
+  "position": "cc",
+  "team": "Orlando Magic"
+}
+{
+  "firstName": "Alfa",
+  "lastName": "Bravo",
+  "age": 31,
+  "position": "gr",
+  "team": "Red Socks"
+}
